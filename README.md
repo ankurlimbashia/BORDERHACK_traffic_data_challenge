@@ -3,7 +3,7 @@
 ### WEB API [best-time-to-cross](https://best-time-to-cross.herokuapp.com/)
 
 ## Inspiration
-We are currently pursuing the course of Data Analytics in Business at St. Clair College and this project has give us the opportunity the work on some real world problem to utilize and test the skills that we have gained till now.
+We are currently pursuing the course of Data Analytics in Business at St. Clair College and this project has given us the opportunity the work on some real world problem to utilize and test the skills that we have gained till now.
 
 ## What it does
 We have build two models to predict the traffic count at all 3 intersection at the given time and date provided by user. In addition to this, it will also suggest the traffic count within the 5 hours of given time and will tell the user if at time close to the user provided time, traffic will be less or not. 

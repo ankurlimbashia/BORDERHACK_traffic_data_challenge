@@ -1,0 +1,2 @@
+[server]\nheadless = true\nenableCORS=false\nport = \n[theme]\nbase="dark"\nprimaryColor="#f3e5e8"\nbackgroundColor="#14293b"\nsecondaryBackgroundColor="#475d87"\ntextColor="#ffffff"\n
+
